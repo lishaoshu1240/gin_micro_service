@@ -2,7 +2,7 @@
  * @Author: stefan1240 lishaoshu1240@gmail.com
  * @Date: 2022-08-28 12:52:59
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
- * @LastEditTime: 2022-08-28 12:54:03
+ * @LastEditTime: 2022-08-28 12:58:00
  * @FilePath: /gin_micro_service/README.md
  * @Description: readme
 -->
@@ -16,7 +16,7 @@
 
 ## 特性
 
-你可以把 gin_micro_service。
+你可以把 gin_micro_service 用于测试和生产环境，也可以当作是学习gin后端入门的一个框架。
 
 - **全平台**
   - 运行环境: 支持：linux、windows、mac。
