@@ -3,7 +3,7 @@
  * @Date: 2022-08-21 12:05:40
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-21 12:07:54
- * @FilePath: /finance_service/model/response/common.go
+ * @FilePath: /gin_micro_service/model/response/common.go
  * @Description: encasulate return function
  */
 

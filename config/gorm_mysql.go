@@ -3,7 +3,7 @@
  * @Date: 2022-08-20 11:46:19
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-21 12:40:40
- * @FilePath: /finance_service/config/gorm_mysql.go
+ * @FilePath: /gin_micro_service/config/gorm_mysql.go
  * @Description: mysql 配置
  */
 

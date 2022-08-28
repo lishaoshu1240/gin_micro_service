@@ -5,7 +5,7 @@
 zap:
   level: 'debug'
   format: 'console'
-  prefix: '[finance_service]'
+  prefix: '[gin_micro_service]'
   director: 'log'
   show-line: true
   encode-level: 'LowercaseColorLevelEncoder'

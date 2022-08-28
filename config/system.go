@@ -3,7 +3,7 @@
  * @Date: 2022-08-20 11:44:23
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-20 11:44:52
- * @FilePath: /finance_service/config/system.go
+ * @FilePath: /gin_micro_service/config/system.go
  * @Description:
  */
 package config

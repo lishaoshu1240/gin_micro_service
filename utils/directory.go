@@ -3,7 +3,7 @@
  * @Date: 2022-08-20 17:34:13
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-20 17:34:17
- * @FilePath: /finance_service/utils/directory.go
+ * @FilePath: /gin_micro_service/utils/directory.go
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 package utils
@@ -11,7 +11,7 @@ package utils
 import (
 	"os"
 
-	"finance_service/global"
+	"gin_micro_service/global"
 
 	"go.uber.org/zap"
 )

@@ -3,7 +3,7 @@
  * @Date: 2022-08-20 12:00:36
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-20 12:02:47
- * @FilePath: /finance_service/config/enter.go
+ * @FilePath: /gin_micro_service/config/enter.go
  * @Description: enter.go
  */
 package config

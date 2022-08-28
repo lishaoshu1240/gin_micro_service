@@ -3,15 +3,15 @@
  * @Date: 2022-08-20 16:46:45
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-22 09:43:18
- * @FilePath: /finance_service/initialize/mysql.go
+ * @FilePath: /gin_micro_service/initialize/mysql.go
  * @Description: mysql init,gorm
  */
 
 package initialize
 
 import (
-	"finance_service/global"
 	"fmt"
+	"gin_micro_service/global"
 	"log"
 	"os"
 	"time"

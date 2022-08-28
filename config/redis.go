@@ -3,7 +3,7 @@
  * @Date: 2022-08-20 11:45:17
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-20 11:45:26
- * @FilePath: /finance_service/config/redis.go
+ * @FilePath: /gin_micro_service/config/redis.go
  * @Description: redis配置读取
  */
 package config

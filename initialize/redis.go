@@ -3,7 +3,7 @@
  * @Date: 2022-08-20 16:41:10
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-20 17:47:29
- * @FilePath: /finance_service/initialize/redis.go
+ * @FilePath: /gin_micro_service/initialize/redis.go
  * @Description: redis
  */
 
@@ -12,7 +12,7 @@ package initialize
 import (
 	"context"
 
-	"finance_service/global"
+	"gin_micro_service/global"
 
 	"github.com/go-redis/redis/v8"
 	"go.uber.org/zap"

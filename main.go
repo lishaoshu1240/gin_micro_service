@@ -2,18 +2,18 @@
  * @Author: stefan1240 lishaoshu1240@gmail.com
  * @Date: 2022-08-20 10:48:13
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
- * @LastEditTime: 2022-08-22 09:39:46
- * @FilePath: /finance_service/main.go
+ * @LastEditTime: 2022-08-28 12:08:09
+ * @FilePath: /gin_micro_service/main.go
  * @Description: main.go
  */
 
 package main
 
 import (
-	"finance_service/global"
-	"finance_service/initialize"
-	"finance_service/utils/nacos"
 	"fmt"
+	"gin_micro_service/global"
+	"gin_micro_service/initialize"
+	"gin_micro_service/utils/nacos"
 
 	"go.uber.org/zap"
 )

@@ -3,13 +3,13 @@
  * @Date: 2022-08-20 17:36:24
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-20 17:36:29
- * @FilePath: /finance_service/utils/reloatelog.go
+ * @FilePath: /gin_micro_service/utils/reloatelog.go
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 package utils
 
 import (
-	"finance_service/global"
+	"gin_micro_service/global"
 	"os"
 
 	"github.com/natefinch/lumberjack"

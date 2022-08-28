@@ -3,15 +3,15 @@
  * @Date: 2022-08-21 11:13:43
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-22 09:50:19
- * @FilePath: /finance_service/service/fees_info_crud.go
+ * @FilePath: /gin_micro_service/service/fees_info_crud.go
  * @Description: 财务资料-》费用信息*/
 
 package service
 
 import (
-	"finance_service/global"
-	model "finance_service/model/orm"
 	"fmt"
+	"gin_micro_service/global"
+	model "gin_micro_service/model/orm"
 )
 
 //base finance operator,egs: add finance item; receivable/payable price

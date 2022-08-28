@@ -3,7 +3,7 @@
  * @Date: 2022-08-20 11:48:12
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-20 11:48:24
- * @FilePath: /finance_service/config/nacos.go
+ * @FilePath: /gin_micro_service/config/nacos.go
  * @Description: nacos
  */
 

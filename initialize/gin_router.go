@@ -3,15 +3,15 @@
  * @Date: 2022-08-20 18:58:49
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-21 12:25:37
- * @FilePath: /finance_service/initialize/router.go
+ * @FilePath: /gin_micro_service/initialize/router.go
  * @Description: 总路由
  */
 
 package initialize
 
 import (
-	"finance_service/global"
-	"finance_service/router"
+	"gin_micro_service/global"
+	"gin_micro_service/router"
 
 	"github.com/gin-gonic/gin"
 )

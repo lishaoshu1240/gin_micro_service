@@ -3,7 +3,7 @@
  * @Date: 2022-08-21 11:09:30
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-21 12:15:31
- * @FilePath: /finance_service/service/enter.go
+ * @FilePath: /gin_micro_service/service/enter.go
  * @Description: enter.go
  */
 

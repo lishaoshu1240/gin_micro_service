@@ -10,7 +10,7 @@
 package nacos
 
 import (
-	"finance_service/global"
+	"gin_micro_service/global"
 
 	"github.com/nacos-group/nacos-sdk-go/clients"
 	"github.com/nacos-group/nacos-sdk-go/clients/naming_client"

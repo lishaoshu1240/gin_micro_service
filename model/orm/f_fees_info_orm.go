@@ -3,7 +3,7 @@
  * @Date: 2022-08-21 10:37:51
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-22 10:04:12
- * @FilePath: /finance_service/model/orm/f_fees_info.go
+ * @FilePath: /gin_micro_service/model/orm/f_fees_info.go
  * @Description: orm table
  */
 

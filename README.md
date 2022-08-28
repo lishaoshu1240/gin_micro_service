@@ -2,21 +2,31 @@
  * @Author: stefan1240 lishaoshu1240@gmail.com
  * @Date: 2022-08-20 10:48:40
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
- * @LastEditTime: 2022-08-22 10:32:29
- * @FilePath: /finance_service/README.md
+ * @LastEditTime: 2022-08-28 12:29:51
+ * @FilePath: /gin_micro_service/README.md
  * @Description: read me
 -->
+<!--
 
+# gin_micro_service
 
+**gin_micro_service** 是一个基于golang(gin)的微服务基础框架。
 
-## golang微服务架构(基于gin)包含以下基础功能
-| 序号       | 功能点                    |
-| ------------ | ----------------------- |
-| `1`        | 动态加载配置文件(viper功能)       |
-| `2`        | 支持ZIP日志              |
-| `3`        | 服务注册和服务发现（nacos）     |
-| `4`        | 集成Redis              |
-| `5`        | 集成Mysql             |
+目的是提供一个文件结构清晰、有基础入门例子的微服务架构，主要功能包含：动态加载配置文件、日志、服务注册和服务发现接入（nacos）、链接数据库等功能。
+
+## 特性
+
+你可以把 gin_micro_service。
+
+- **全平台**
+  - 运行环境: 支持：linux、windows、mac。
+  - 部署方式: docker部署、直接编译运行。
+  
+- **基础功能**
+  - 动态加载配置文件: 基于viper模块。
+  - 日志: 基于ZIP模块。
+  - 服务注册和服务发现: 基于阿里开源nacos。
+  - 数据库连接: 可接入Redis、Mysql, 此外，可自行拓展别数据库。
 
 
 ## server项目结构（MVC架构）
@@ -58,3 +68,18 @@
 | `--nacos`    | nacos | 注册中心接口封装 |
 | `--stores`   | redis                  | redis接口封装        |
 
+## 立刻开始
+
+### 运行、编译、打包成docker
+
+TODO
+
+## 贡献
+
+我们欢迎来自开源社区、个人和合作伙伴的各种贡献。
+
+- [贡献指南](CONTRIBUTING.md)
+
+## 协议
+
+[Apache 2.0 License](LICENSE)

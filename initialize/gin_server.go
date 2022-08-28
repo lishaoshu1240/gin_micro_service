@@ -3,15 +3,15 @@
  * @Date: 2022-08-20 19:04:49
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-21 10:20:49
- * @FilePath: /finance_service/initialize/gin_server.go
+ * @FilePath: /gin_micro_service/initialize/gin_server.go
  * @Description: gin server init
  */
 
 package initialize
 
 import (
-	"finance_service/global"
 	"fmt"
+	"gin_micro_service/global"
 	"time"
 
 	"github.com/fvbock/endless"
@@ -33,7 +33,7 @@ func InitServer(address string, router *gin.Engine) {
 	time.Sleep(10 * time.Microsecond)
 	global.GVA_LOG.Info("server run success on ", zap.String("address", address))
 	global.GVA_LOG.Info(fmt.Sprintf(`
-	Welecome to use: finance_service
+	Welecome to use: gin_micro_service
 	Current version: V1.0.0 Beta
 	Listen port:%v
 `, global.GVA_CONFIG.System.Addr))

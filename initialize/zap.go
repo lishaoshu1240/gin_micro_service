@@ -3,7 +3,7 @@
  * @Date: 2022-08-20 17:32:33
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-20 17:32:36
- * @FilePath: /finance_service/initialize/zap.go
+ * @FilePath: /gin_micro_service/initialize/zap.go
  * @Description: zap 日志
  */
 package initialize
@@ -13,8 +13,8 @@ import (
 	"os"
 	"time"
 
-	"finance_service/global"
-	"finance_service/utils"
+	"gin_micro_service/global"
+	"gin_micro_service/utils"
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

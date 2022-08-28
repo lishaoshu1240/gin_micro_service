@@ -1,4 +1,4 @@
-module finance_service
+module gin_micro_service
 
 go 1.17
 

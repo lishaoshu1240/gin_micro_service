@@ -3,7 +3,7 @@
  * @Date: 2022-08-22 10:03:48
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-22 10:03:51
- * @FilePath: /finance_service/model/orm/f_quoted_price_orm.go
+ * @FilePath: /gin_micro_service/model/orm/f_quoted_price_orm.go
  * @Description: quoted price
  */
 

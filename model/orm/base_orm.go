@@ -3,7 +3,7 @@
  * @Date: 2022-08-21 11:01:42
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-21 11:06:09
- * @FilePath: /finance_service/model/orm/base_orm.go
+ * @FilePath: /gin_micro_service/model/orm/base_orm.go
  * @Description: base orm
  */
 

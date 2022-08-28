@@ -3,14 +3,14 @@
  * @Date: 2022-08-21 11:50:23
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-21 12:19:54
- * @FilePath: /finance_service/api/v1/finance/fees_info_api.go
+ * @FilePath: /gin_micro_service/api/v1/finance/fees_info_api.go
  * @Description: fees_info api */
 
 package v1
 
 import (
-	"finance_service/model/response"
-	"finance_service/service"
+	"gin_micro_service/model/response"
+	"gin_micro_service/service"
 
 	"github.com/gin-gonic/gin"
 )
