@@ -3,7 +3,7 @@
  * @Date: 2022-08-20 10:48:40
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
  * @LastEditTime: 2022-08-22 10:32:29
- * @FilePath: /finance_service/README.md
+ * @FilePath: 
  * @Description: read me
 -->
 
