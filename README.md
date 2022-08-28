@@ -1,9 +1,18 @@
+<!--
+ * @Author: stefan1240 lishaoshu1240@gmail.com
+ * @Date: 2022-08-28 12:52:59
+ * @LastEditors: stefan1240 lishaoshu1240@gmail.com
+ * @LastEditTime: 2022-08-28 12:54:03
+ * @FilePath: /gin_micro_service/README.md
+ * @Description: readme
+-->
+
 
 # gin_micro_service
 
 **gin_micro_service** 是一个基于golang(gin)的微服务基础框架。
 
-目的是提供一个文件结构清晰、有基础入门例子的微服务架构，主要功能包含：动态加载配置文件、日志、服务注册和服务发现接入（nacos）、链接数据库等功能。
+目的是提供一个文件结构清晰、有使用入门例子的微服务架构，主要功能包含：动态加载配置文件、日志、服务注册和服务发现接入（nacos）、链接数据库等功能。
 
 ## 特性
 
