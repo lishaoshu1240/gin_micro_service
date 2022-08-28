@@ -2,7 +2,7 @@
  * @Author: stefan1240 lishaoshu1240@gmail.com
  * @Date: 2022-08-28 12:52:59
  * @LastEditors: stefan1240 lishaoshu1240@gmail.com
- * @LastEditTime: 2022-08-28 12:58:00
+ * @LastEditTime: 2022-08-28 13:01:07
  * @FilePath: /gin_micro_service/README.md
  * @Description: readme
 -->
@@ -63,7 +63,7 @@
 | `--request`  | 入参结构体              | 接收前端发送到后端的数据。  |
 | `--response` | 出参结构体              | 返回给前端的数据结构体      |
 | `router`     | 路由层                  | 路由层 |
-| `service`    | service层               | 存放业务逻辑问题 |
+| `service`    | service层               | 处理业务逻辑 |
 | `utils`      | 工具包                  | 工具函数封装            |
 | `--nacos`    | nacos | 注册中心接口封装 |
 | `--stores`   | redis                  | redis接口封装        |
